@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DockerNetCoreConsole": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

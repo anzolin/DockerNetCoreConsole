@@ -1,0 +1,20 @@
+{
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"editor.wordWrap": "on",
+		"terminal.integrated.cwd": "../"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-dotnettools.csharp",
+			"ms-azuretools.vscode-docker",
+			"jchannon.csharpextensions",
+			"esbenp.prettier-vscode"
+		]
+	},
+	"folders": [
+		{
+			"path": "DockerNetCoreConsole"
+		}
+	]
+}

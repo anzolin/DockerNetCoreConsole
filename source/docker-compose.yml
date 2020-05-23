@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockernetcoreconsole:
+    image: ${DOCKER_REGISTRY-}dockernetcoreconsole
+    build:
+      context: .
+      dockerfile: DockerNetCoreConsole\Dockerfile
